@@ -15,9 +15,7 @@ This system was developed as a **DBMS mini-project** to demonstrate real-world C
 
 - User Registration & Login  
 - Browse Movies & Showtimes  
-- Book Tickets Instantly  
-- View Booking History  
-- Automatic Confirmation After Booking
+- Book Tickets Instantly
 
 ---
 
