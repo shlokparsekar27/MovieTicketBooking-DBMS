@@ -6,5 +6,5 @@ A database management system for movie ticket booking. Users can browse movies, 
 - Browse movies and showtimes
 - Book tickets
 
-## Group Project
+## Group Project (DBMS Mini Project)
 This project was developed as a group project with **Sanket Naik** and **Sanjay Thorat**.
