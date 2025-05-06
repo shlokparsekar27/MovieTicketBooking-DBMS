@@ -1,6 +1,6 @@
 This is Our Final DBMS MINI PROJECT
 
-Movie Ticket Booking System:
+## Movie Ticket Booking System:
 A database management system for movie ticket booking. Users can browse movies, check showtimes, and book tickets.
 
 ## Features
