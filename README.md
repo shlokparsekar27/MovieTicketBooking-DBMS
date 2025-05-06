@@ -51,4 +51,5 @@ This project was developed as part of an academic DBMS mini-project by:
 
 ---
 
-Feel free to explore, fork, or contribute to the project!
+## Contribution
+Feel free to fork, clone, or contribute to this project. Any suggestions or improvements are always welcome!
