@@ -7,7 +7,7 @@ Users can register, browse movies, check showtimes, and book tickets with instan
 
 ## Project Overview
 
-This system was developed as a **DBMS mini-project** to demonstrate real-world CRUD operations, session handling, and backend integration. It offers a user-friendly interface for both casual users and admins to manage bookings efficiently.
+This system was developed as a DBMS mini-project for academic purposes, as part of the Semester V curriculum in the 3rd Year IT Engineering program. It demonstrates fundamental CRUD operations, session handling, and backend integration, offering a user-friendly interface for managing bookings efficiently for both casual users and admins.
 
 ---
 
