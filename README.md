@@ -21,14 +21,14 @@ This system was developed as a DBMS mini-project for academic purposes, as part 
 
 ## Tech Stack
 
-### Backend:
-- **Java**
-- **Spring Boot**
-- **MySQL**
+- Backend:
+  - **Java**
+  - **Spring Boot**
+  - **MySQL**
 
-### Frontend:
-- **Thymeleaf (Template Engine)**
-- **HTML/CSS**
+- Frontend:
+  - **Thymeleaf (Template Engine)**
+  - **HTML/CSS**
 
 ---
 
